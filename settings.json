@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "DomiTM",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Soy el hijo de todos!",
+        "Los defensas son buenisimos!",
+        "Me gusta jugar al juego de excavar y fabricar!"
       ]
     },
     "chat-log": true,
